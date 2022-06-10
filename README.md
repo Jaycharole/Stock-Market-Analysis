@@ -1,3 +1,4 @@
 # Stock-Market-Analysis
 
-<img align="center" scr="https://github.com/Jaycharole/Stock-Market-Analysis/blob/main/Images/Stock%20Dashboard%20GIF.gif" width="500" height="320">
+
+![Stock Dashboard GIF](https://user-images.githubusercontent.com/49811782/173000326-d34e5e63-d50d-4c8c-be2b-ce25af0925db.gif)
