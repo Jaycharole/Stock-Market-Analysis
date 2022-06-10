@@ -18,7 +18,7 @@ You can interact with Live Project by clicking on the link
 
 [Wire Frame](https://github.com/Jaycharole/Stock-Market-Analysis/blob/main/Documentations/Wireframe.pdf)
 
-# 🚀 Resturant Companies Analysis
+# 🚀 Stock Market Analysis
 
 ### About the Project
 
